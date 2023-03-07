@@ -1,0 +1,11 @@
+###
+GET http://localhost:8080/medicine/538
+
+<> 2023-03-07T162936.200.json
+
+###
+GET http://localhost:8080
+
+<> 2023-03-07T162945.200.json
+
+###
